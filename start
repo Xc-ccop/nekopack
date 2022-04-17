@@ -1,5 +1,4 @@
 #!/bin/bash
-
 _get_zlink () {
     local regex
     regex='(https?)://github.com/.+/.+'
